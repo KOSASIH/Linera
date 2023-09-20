@@ -1,14 +1,14 @@
-## Next.js Marketplace
+## Linera Marketplace
 
 Now updated to connect to the new dashboard and [Cosmic JavaScript SDK](https://www.npmjs.com/package/@cosmicjs/sdk). [Read the article](https://www.cosmicjs.com/blog/4-steps-to-update-the-nextjs-marketplace-template) to learn about the latest updates.
 
-The Next.js Marketplace is a template that you can use to start your own digital art marketplace. Download for free.
+The Linera Marketplace is a Marketolace that you can use to start your own digital art marketplace. Download for free.
 
 ![Cosmic uNFT](https://user-images.githubusercontent.com/1950722/178328933-c6f0008f-a188-4678-9420-404dd1f02871.gif)
 
 ## Technology used
 
-This template uses the following technologies:
+Linera Marketplace uses the following technologies:
 
 - [Next.js](https://nextjs.org/) - scalable and high-performance **React.js** framework for modern web development. Provides a large set of features, such as hybrid rendering, route prefetching, automatic image optimization, and internationalization, out of the box.
 - [Cosmic](https://www.cosmicjs.com/) - fast, fully managed [headless CMS](https://www.cosmicjs.com/headless-cms) that enables us to quickly manage and create website content including UGC (user-generated content).
